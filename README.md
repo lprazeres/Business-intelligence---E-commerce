@@ -1,6 +1,7 @@
 📊 Brazilian E-Commerce Data Analysis — Olist Project
 
 🔍 Project Overview
+
 This project is a comprehensive business analytics case study based on Olist, a large Brazilian e-commerce platform. The main objective was to analyze, visualize, and extract actionable insights from a complex dataset involving sales, products, customers, sellers, and logistics.
 
 I worked across the entire data pipeline — from data extraction using SQL to advanced analysis and interactive visualizations in Python — delivering a strategic dashboard and predictive models that provide value to both business and operational decisions.
