@@ -8,6 +8,7 @@ I worked across the entire data pipeline — from data extraction using SQL to a
 
 
 🚀 Key Highlights
+
 ✅ SQL for relational data modeling and data extraction
 
 ✅ Exploratory Data Analysis (EDA) using Pandas, NumPy, Seaborn and Plotly
@@ -27,6 +28,7 @@ I worked across the entire data pipeline — from data extraction using SQL to a
 
 
 🧠 Key Business Insights
+
 Sellers with long average delivery times tend to receive lower review scores
 
 Certain states show consistently higher sales volumes, impacting logistics planning
@@ -40,6 +42,7 @@ Predictive insights can reduce churn by targeting at-risk customer segments base
 
 
 🛠️ Tools & Technologies Used
+
 Languages: SQL, Python
 
 Libraries: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn
